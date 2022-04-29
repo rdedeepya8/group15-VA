@@ -1,0 +1,8 @@
+pandas
+numpy
+streamlit 
+altair
+plotly
+import seaborn as sns
+matplotlib
+pyplot 
